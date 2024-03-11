@@ -7,7 +7,7 @@ Cloud DevOps Engineer / SRE
 I am currently working as a Cloud DevOps Engineer, adding a new experience to my previous functions of IT security, infrastructure design, development of technological solutions and sysadmin. I am particularly interested in open source solutions and research on single-board computer (SBC) alternatives.
 
 * 🌍  I'm based in Argentina
-* 🚀  I'm currently working on [Wazuh](http://wazuh.com)
+* 🚀  I'm currently working on [Wazuh](https://github.com/wazuh) at [wazuh.com](http://wazuh.com)
   
 * 🤝  I'm open to collaborating on Open source alternatives, new uses of single-board computers and challenging projects.
 
@@ -28,13 +28,13 @@ I am currently working as a Cloud DevOps Engineer, adding a new experience to my
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sultanovich"><img src="https://github-readme-stats.vercel.app/api?username=sultanovich&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sultanovich's GitHub stats" /></a>
-
-<a href="http://www.github.com/sultanovich"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanovich&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/sultanovich"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sultanovich&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/sultanovich" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanovich&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sultanovich&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanovich&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sultanovich&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
 
 <!-- 
 ### Support Me
