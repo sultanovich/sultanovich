@@ -36,7 +36,7 @@ Let's connect on [Github](https://github.com/sultanovich/) and [LinkedIn](https:
  -->
 
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=sultanovich&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/pabloarielgonzalez/) [![GitHub followers](https://img.shields.io/github/followers/sultanovich.svg?label=Follow%20@sultanovich&style=social)](https://github.com/sultanovich/) ![](https://badges.pufler.dev/visits/sultanovich/sultanovich?color=black&logo=github&style=flat-square)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=sultanovich&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/pabloarielgonzalez/) [![GitHub followers](https://img.shields.io/github/followers/sultanovich.svg?label=Follow%20@sultanovich&style=social)](https://github.com/sultanovich/)
 
 
 ## Badges
@@ -67,4 +67,4 @@ Let's connect on [Github](https://github.com/sultanovich/) and [LinkedIn](https:
  -->
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=sultanovich&title=Experience,Commits,PullRequest,Issues,Repositories,Followers&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sultanovich&title=Experience,Commits,PullRequest,Issues,Repositories&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
