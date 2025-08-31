@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sultanovich</h1>
-<h3 align="center">A Cloud DevOps Engineer / SRE </h3>
+<h3 align="center">Cloud Security Architect & DevSecOps Engineer</h3>
+<h4 align="center">Focused on Security Architecture & Compliance (PCI DSS, SOC 2) | Open Source & Debian Advocate</h4>
 
+---
 
-I'm a **Cloud DevOps Engineer** with a strong passion for **open-source** and **single-board computer (SBC) alternatives**. Due to my interests I have also had diverse functions such as IT security architect, infrastructure design, development of technological solutions and systems administrator. 
+## 🌍 About me
 
-
-## I little bit about me
-
-* 🌍  I'm based in Argentina
-* 🚀  I'm currently working on [Wazuh](https://github.com/wazuh) at [wazuh.com](http://wazuh.com)
-* 🤝  I'm open to collaborating on Open source alternatives, new uses of single-board computers and challenging projects.
-* 🎓 I'm currently working towards an AWS Solutions architect Cert.
-* 🌱 I'm on track with learning more about DevOps, Security, AI/ML and Software Architecture.
-
-
+- 📌 Based in Argentina
+- 🛡️ Currently working at [Wazuh](https://wazuh.com) (Cloud Security & DevSecOps) 
+- 🐧 Debian Argentina community – Organizer of **DebConf26 Argentina**  
+- 🎤 Speaker at **Nerdearla 2025**
+- 🤝 Open Source contributor
+- 🎯 Interested in DevOps, Cloud Security, AI/ML, and Software Architecture
+  
 <!-- 
 ### Skills
 
@@ -23,10 +22,13 @@ I'm a **Cloud DevOps Engineer** with a strong passion for **open-source** and **
 </p>
  -->
 
-## Let's connect!
+---
 
-Let's connect on [Github](https://github.com/sultanovich/) and [LinkedIn](https://www.linkedin.com/in/pabloarielgonzalez).
-
+## 📫 Let's connect
+- 🌐 [Linktree](https://linktr.ee/sultanovich.sh)  
+- 🐘 [Mastodon](https://rebel.ar/@sultanovich)  
+- 🐦 [Twitter](https://twitter.com/sultanovich_sh)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pabloarielgonzalez/)  
 
 <!-- 
 <p align="left"> <a href="https://www.github.com/sultanovich" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pabloarielgonzalez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
