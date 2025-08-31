@@ -8,8 +8,8 @@
 
 - 📌 Based in Argentina
 - 🛡️ Currently working at [Wazuh](https://wazuh.com) (Cloud Security & DevSecOps) 
-- 🐧 Debian Argentina community – Organizer of **DebConf26 Argentina**  
-- 🎤 Speaker at **Nerdearla 2025**
+- 🐧 Debian Argentina community – Organizer of **DebConf26 Argentina - Santa Fe**  
+- 🎤 Speaker at **Nerdearla** and **FLISoL CABA**
 - 🤝 Open Source contributor
 - 🎯 Interested in DevOps, Cloud Security, AI/ML, and Software Architecture
   
