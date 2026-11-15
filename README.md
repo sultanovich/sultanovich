@@ -1,72 +1,56 @@
 <h1 align="center">Hi 👋, I'm Sultanovich</h1>
-<h3 align="center">Cloud Security Architect & DevSecOps Engineer</h3>
-<h4 align="center">Focused on Security Architecture & Compliance (PCI DSS, SOC 2) | Open Source & Debian Advocate</h4>
+<h3 align="center">Security Architect</h3>
+<h4 align="center">Secure Cloud Platforms · IAM · Automation · Debian/Linux | Compliance by design (PCI DSS, SOC 2) | Open Source & Debian Advocate</h4>
+
+<p align="center">
+  <a href="https://debconf26.debconf.org/"><img src="https://img.shields.io/badge/DebConf26-Local_Team_Organizer-A80030?style=flat&logo=debian&logoColor=white" alt="DebConf26 Local Team Organizer" /></a>
+  <a href="https://sultanovich.github.io/talks-en/"><img src="https://img.shields.io/badge/Speaker-Nerdearla_·_FLISoL_·_DebConf26-2962FF?style=flat" alt="Speaker at Nerdearla, FLISoL and DebConf26" /></a>
+  <a href="https://sultanovich.github.io/talks-en/"><img src="https://img.shields.io/badge/CFP_Reviewer-FLISoL_CABA_·_Posadev_(Mexico)-2E7D32?style=flat" alt="CFP Reviewer at FLISoL CABA and Posadev, Mexico" /></a>
+</p>
 
 ---
 
 ## 🌍 About me
 
-- 📌 Based in Argentina
-- 🛡️ Currently working at [Wazuh](https://wazuh.com) (Cloud Security & DevSecOps) 
-- 🐧 Debian Argentina community – Organizer of **DebConf26 Argentina - Santa Fe**  
-- 🎤 Speaker at **Nerdearla** and **FLISoL CABA**
-- 🤝 Open Source contributor
-- 🎯 Interested in DevOps, Cloud Security, AI/ML, and Software Architecture
-  
-<!-- 
-### Skills
+I'm a Security Architect, currently at [Wazuh](https://wazuh.com), based in Argentina 🇦🇷.
 
+I design and secure cloud platforms: identity and access, automation, hardened Linux foundations, and the controls that let a SaaS platform pass PCI DSS and SOC 2 audits. With 20+ years in Unix systems and information security, I've gone from running servers to designing and hardening cloud infrastructure.
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
- -->
+### 🛡️ What I work on
+
+- **Secure platform architecture:** AWS and Kubernetes (EKS) platforms designed to be secure, automated and auditable
+- **Identity & access:** IAM design, least privilege, secrets management
+- **Automation:** turning manual operations into unattended, repeatable processes
+- **Linux foundations:** GNU/Linux and Debian hardening
+- **Compliance by design:** PCI DSS v4.0.1 and SOC 2 Type 2, with security controls and audit evidence built into the platform
+- **Detection & posture:** Wazuh (SIEM/XDR), Suricata, Prowler, Trivy, kube-bench
+
+### 🐧 Community
+
+- Local Team organizer of **DebConf26** (Santa Fe, Argentina) and helping restart the **Debian Argentina** community
+- Speaker at **Nerdearla 2025**, **FLISoL** (2025, 2026) and **DebConf26**: Debian, open source communities and Wazuh
+- CFP reviewer for **[FLISoL CABA](https://flisol.info/FLISOL2026/Argentina/CABA)** and **[Posadev](https://posadev.org/)** (Mexico)
+- All my talks, with slides and videos: **[sultanovich.github.io/talks](https://sultanovich.github.io/talks-en/)**
+
+### ✍️ Writing
+
+I write about security architecture, cloud platforms, Debian and open source (in Spanish and English):
+**[sultanovich.github.io](https://sultanovich.github.io/)**
+
+<!-- TODO: once the first architecture case study is published, list it here:
+### 🏗️ Architecture case studies
+- [Case title](https://sultanovich.github.io/posts/...): problem → decision → impact
+-->
 
 ---
 
 ## 📫 Let's connect
-- 🌐 [Linktree](https://linktr.ee/sultanovich.sh)  
-- 🐘 [Mastodon](https://rebel.ar/@sultanovich)  
-- 🐦 [Twitter](https://twitter.com/sultanovich_sh)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pabloarielgonzalez/)  
-
-<!-- 
-<p align="left"> <a href="https://www.github.com/sultanovich" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pabloarielgonzalez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
-
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sultanovich)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pabloarielgonzalez/)
- -->
-
-
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=sultanovich&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/pabloarielgonzalez/) [![GitHub followers](https://img.shields.io/github/followers/sultanovich.svg?label=Follow%20@sultanovich&style=social)](https://github.com/sultanovich/)
-
-
-## Badges
-
-<b>My GitHub Stats</b>
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sultanovich&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanovich&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sultanovich&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <img height="50%" width="auto" src ="https://github-readme-activity-graph.vercel.app/graph?username=sultanovich&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true">
-  <br>
-</p>
-
-<!-- 
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/sultanovich"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
 
 <p align="center">
-  <br>
-  <a href="https://www.buymeacoffee.com/sultanovich"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+  <a href="https://sultanovich.github.io/"><img src="https://img.shields.io/badge/Blog-sultanovich.github.io-E95420?style=flat&logo=jekyll&logoColor=white" alt="Blog" /></a>
+  <a href="https://www.linkedin.com/in/pabloarielgonzalez/"><img src="https://img.shields.io/badge/LinkedIn-pabloarielgonzalez-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a rel="me" href="https://rebel.ar/@sultanovich"><img src="https://img.shields.io/badge/Mastodon-@sultanovich@rebel.ar-6364FF?style=flat&logo=mastodon&logoColor=white" alt="Mastodon" /></a>
+  <a href="https://x.com/sultanovich_sh"><img src="https://img.shields.io/badge/X-@sultanovich__sh-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
 </p>
- -->
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=sultanovich&title=Experience,Commits,PullRequest,Issues,Repositories&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">Open to talks, meetups and collaborating on open source security projects.</p>
